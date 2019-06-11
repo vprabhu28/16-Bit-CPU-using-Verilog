@@ -1,0 +1,126 @@
+{V:/Masters/VLSI testing and vrification/Verilog/Controller.v} {1 {vlog -work work -stats=none {V:/Masters/VLSI testing and vrification/Verilog/Controller.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module controller
+-- Compiling module tb_controller
+
+Top level modules:
+	tb_controller
+
+} {} {}} {V:/Masters/VLSI testing and vrification/Verilog/MuxB.v} {1 {vlog -work work -stats=none {V:/Masters/VLSI testing and vrification/Verilog/MuxB.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module muxB
+
+Top level modules:
+	muxB
+
+} {} {}} {V:/Masters/VLSI testing and vrification/Verilog/InstReg.v} {1 {vlog -work work -stats=none {V:/Masters/VLSI testing and vrification/Verilog/InstReg.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module insReg
+
+Top level modules:
+	insReg
+
+} {} {}} {V:/Masters/VLSI testing and vrification/Verilog/Basics.v} {1 {vlog -work work -stats=none {V:/Masters/VLSI testing and vrification/Verilog/Basics.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module dff
+-- Compiling module tb_dff
+
+Top level modules:
+	tb_dff
+
+} {} {}} {V:/Masters/VLSI testing and vrification/Verilog/RegA.v} {1 {vlog -work work -stats=none {V:/Masters/VLSI testing and vrification/Verilog/RegA.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module regA
+-- Compiling module tb_regA
+
+Top level modules:
+	tb_regA
+
+} {} {}} {V:/Masters/VLSI testing and vrification/Verilog/InstMemory.v} {1 {vlog -work work -stats=none {V:/Masters/VLSI testing and vrification/Verilog/InstMemory.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module instmem
+-- Compiling module tb_instmem
+
+Top level modules:
+	tb_instmem
+
+} {} {}} {V:/Masters/VLSI testing and vrification/Verilog/RegB.v} {1 {vlog -work work -stats=none {V:/Masters/VLSI testing and vrification/Verilog/RegB.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module regB
+-- Compiling module tb_regB
+
+Top level modules:
+	tb_regB
+
+} {} {}} {V:/Masters/VLSI testing and vrification/Verilog/ArithUnit.v} {1 {vlog -work work -stats=none {V:/Masters/VLSI testing and vrification/Verilog/ArithUnit.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module arith
+-- Compiling module tb_arith
+
+Top level modules:
+	tb_arith
+
+} {} {}} {V:/Masters/VLSI testing and vrification/Verilog/Encoder16-4.v} {1 {vlog -work work -stats=none {V:/Masters/VLSI testing and vrification/Verilog/Encoder16-4.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module encode164
+-- Compiling module tb_encode
+
+Top level modules:
+	tb_encode
+
+} {} {}} {V:/Masters/VLSI testing and vrification/Verilog/RegC.v} {1 {vlog -work work -stats=none {V:/Masters/VLSI testing and vrification/Verilog/RegC.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module regC
+-- Compiling module tb_regC
+
+Top level modules:
+	tb_regC
+
+} {} {}} {V:/Masters/VLSI testing and vrification/Verilog/LogicUnit.v} {1 {vlog -work work -stats=none {V:/Masters/VLSI testing and vrification/Verilog/LogicUnit.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module logic
+-- Compiling module tb_logic
+
+Top level modules:
+	tb_logic
+
+} {} {}} {V:/Masters/VLSI testing and vrification/Verilog/Counter.v} {1 {vlog -work work -stats=none {V:/Masters/VLSI testing and vrification/Verilog/Counter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module counter4b
+-- Compiling module tb_counter4b
+
+Top level modules:
+	tb_counter4b
+
+} {} {}} {V:/Masters/VLSI testing and vrification/Verilog/Mux.v} {1 {vlog -work work -stats=none {V:/Masters/VLSI testing and vrification/Verilog/Mux.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module muxA
+
+Top level modules:
+	muxA
+
+} {} {}} {V:/Masters/VLSI testing and vrification/Verilog/ALU.v} {1 {vlog -work work -stats=none {V:/Masters/VLSI testing and vrification/Verilog/ALU.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU
+-- Compiling module tb_ALU
+
+Top level modules:
+	tb_ALU
+
+} {} {}} {V:/Masters/VLSI testing and vrification/Verilog/DataMemory.v} {1 {vlog -work work -stats=none {V:/Masters/VLSI testing and vrification/Verilog/DataMemory.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module datamem
+-- Compiling module tb_datamem
+
+Top level modules:
+	tb_datamem
+
+} {} {}} {V:/Masters/VLSI testing and vrification/Verilog/PC.v} {1 {vlog -work work -stats=none {V:/Masters/VLSI testing and vrification/Verilog/PC.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PC
+-- Compiling module tb_PC
+
+Top level modules:
+	tb_PC
+
+} {} {}}

@@ -1,0 +1,676 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dV:/Masters/Digital Machine Design/Project/EE560 projects/Timning_Analysis_and_Constraints_su17_source_files
+vALU
+Z0 !s110 1559866686
+!i10b 1
+!s100 =;O^OGbSAz32>X=ZXB=8^1
+ISZMAlgDL`>MgC`XRX[lb>1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dV:/Masters/VLSI testing and vrification/Verilog
+Z3 w1559082105
+Z4 8V:/Masters/VLSI testing and vrification/Verilog/ALU.v
+Z5 FV:/Masters/VLSI testing and vrification/Verilog/ALU.v
+L0 5
+Z6 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z7 !s108 1559866686.000000
+Z8 !s107 V:/Masters/VLSI testing and vrification/Verilog/ALU.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|V:/Masters/VLSI testing and vrification/Verilog/ALU.v|
+!s101 -O0
+!i113 1
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@a@l@u
+varith
+Z11 !s110 1559866685
+!i10b 1
+!s100 WKTCDkJ@I>Zm[^UT6BgQj3
+I4IH]31MH:bR9ka>kIBAoL1
+R1
+R2
+Z12 w1559079904
+Z13 8V:/Masters/VLSI testing and vrification/Verilog/ArithUnit.v
+Z14 FV:/Masters/VLSI testing and vrification/Verilog/ArithUnit.v
+L0 6
+R6
+r1
+!s85 0
+31
+Z15 !s108 1559866685.000000
+Z16 !s107 V:/Masters/VLSI testing and vrification/Verilog/ArithUnit.v|
+Z17 !s90 -reportprogress|300|-work|work|-stats=none|V:/Masters/VLSI testing and vrification/Verilog/ArithUnit.v|
+!s101 -O0
+!i113 1
+R10
+vcontroller
+Z18 !s110 1559866687
+!i10b 1
+!s100 P9FXM2FVKj6[JF?>bTDeg2
+IWjFzI>7YDM8l;T[N1fNN72
+R1
+R2
+Z19 w1559783142
+Z20 8V:/Masters/VLSI testing and vrification/Verilog/Controller.v
+Z21 FV:/Masters/VLSI testing and vrification/Verilog/Controller.v
+L0 4
+R6
+r1
+!s85 0
+31
+Z22 !s108 1559866687.000000
+Z23 !s107 V:/Masters/VLSI testing and vrification/Verilog/Controller.v|
+Z24 !s90 -reportprogress|300|-work|work|-stats=none|V:/Masters/VLSI testing and vrification/Verilog/Controller.v|
+!s101 -O0
+!i113 1
+R10
+vcounter4b
+R11
+!i10b 1
+!s100 34OSz`Ab<VZcAJnGe7`QC3
+IeZFzYL2lkeTL6JP8KJO662
+R1
+R2
+Z25 w1558911133
+Z26 8V:/Masters/VLSI testing and vrification/Verilog/Counter.v
+Z27 FV:/Masters/VLSI testing and vrification/Verilog/Counter.v
+L0 9
+R6
+r1
+!s85 0
+31
+R15
+Z28 !s107 V:/Masters/VLSI testing and vrification/Verilog/Counter.v|
+Z29 !s90 -reportprogress|300|-work|work|-stats=none|V:/Masters/VLSI testing and vrification/Verilog/Counter.v|
+!s101 -O0
+!i113 1
+R10
+vCPU
+Z30 !s110 1560283771
+!i10b 1
+!s100 9FmAAT6VBWS:88=bh^U2W1
+IDZ^RNkE35MDT?lA;7_2l@1
+R1
+R2
+Z31 w1559866680
+Z32 8V:/Masters/VLSI testing and vrification/Verilog/CPU.v
+Z33 FV:/Masters/VLSI testing and vrification/Verilog/CPU.v
+L0 4
+R6
+r1
+!s85 0
+31
+Z34 !s108 1560283771.000000
+Z35 !s107 V:/Masters/VLSI testing and vrification/Verilog/CPU.v|
+Z36 !s90 -reportprogress|300|-work|work|-stats=none|V:/Masters/VLSI testing and vrification/Verilog/CPU.v|
+!s101 -O0
+!i113 1
+R10
+n@c@p@u
+vdatamem
+R0
+!i10b 1
+!s100 YGAXBFa0T9fjejDldP>MH0
+IQnT0OP=8E[PGR@XXn2Qe60
+R1
+R2
+Z37 w1559090397
+Z38 8V:/Masters/VLSI testing and vrification/Verilog/DataMemory.v
+Z39 FV:/Masters/VLSI testing and vrification/Verilog/DataMemory.v
+L0 5
+R6
+r1
+!s85 0
+31
+R7
+Z40 !s107 V:/Masters/VLSI testing and vrification/Verilog/DataMemory.v|
+Z41 !s90 -reportprogress|300|-work|work|-stats=none|V:/Masters/VLSI testing and vrification/Verilog/DataMemory.v|
+!s101 -O0
+!i113 1
+R10
+vdff
+R11
+!i10b 1
+!s100 zfjC>_M3BDRHZmDPE8_e^1
+IFNb4QjE3V;bMYONN[]<[h0
+R1
+R2
+Z42 w1558905393
+Z43 8V:/Masters/VLSI testing and vrification/Verilog/Basics.v
+Z44 FV:/Masters/VLSI testing and vrification/Verilog/Basics.v
+L0 3
+R6
+r1
+!s85 0
+31
+R15
+Z45 !s107 V:/Masters/VLSI testing and vrification/Verilog/Basics.v|
+Z46 !s90 -reportprogress|300|-work|work|-stats=none|V:/Masters/VLSI testing and vrification/Verilog/Basics.v|
+!s101 -O0
+!i113 1
+R10
+vencode164
+R11
+!i10b 1
+!s100 7ZSNF06:NNRB>h;oOmYz73
+I<RVITf]^D6SQ8_YKBdm3j3
+R1
+R2
+Z47 w1558913377
+Z48 8V:/Masters/VLSI testing and vrification/Verilog/Encoder16-4.v
+Z49 FV:/Masters/VLSI testing and vrification/Verilog/Encoder16-4.v
+L0 7
+R6
+r1
+!s85 0
+31
+R15
+Z50 !s107 V:/Masters/VLSI testing and vrification/Verilog/Encoder16-4.v|
+Z51 !s90 -reportprogress|300|-work|work|-stats=none|V:/Masters/VLSI testing and vrification/Verilog/Encoder16-4.v|
+!s101 -O0
+!i113 1
+R10
+vinsReg
+R18
+!i10b 1
+!s100 koB47XML`h_E]BlZAF::z1
+IPGchIG>?50j]ONb<:GCLS1
+R1
+R2
+w1559253226
+8V:/Masters/VLSI testing and vrification/Verilog/InstReg.v
+FV:/Masters/VLSI testing and vrification/Verilog/InstReg.v
+L0 4
+R6
+r1
+!s85 0
+31
+R22
+!s107 V:/Masters/VLSI testing and vrification/Verilog/InstReg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|V:/Masters/VLSI testing and vrification/Verilog/InstReg.v|
+!s101 -O0
+!i113 1
+R10
+nins@reg
+vinstmem
+R0
+!i10b 1
+!s100 cKn8dBLhOVTjd]84f57cj3
+IQKRK8n;?ZoeeI[O;<3HOW3
+R1
+R2
+Z52 w1559090916
+Z53 8V:/Masters/VLSI testing and vrification/Verilog/InstMemory.v
+Z54 FV:/Masters/VLSI testing and vrification/Verilog/InstMemory.v
+L0 5
+R6
+r1
+!s85 0
+31
+R7
+Z55 !s107 V:/Masters/VLSI testing and vrification/Verilog/InstMemory.v|
+Z56 !s90 -reportprogress|300|-work|work|-stats=none|V:/Masters/VLSI testing and vrification/Verilog/InstMemory.v|
+!s101 -O0
+!i113 1
+R10
+vlogic
+R0
+!i10b 1
+!s100 `OWVF8Ym]LJ:ejSoFO50S3
+IS<j7m9<<m?l1fnD:_@6CZ1
+R1
+R2
+Z57 w1559081990
+Z58 8V:/Masters/VLSI testing and vrification/Verilog/LogicUnit.v
+Z59 FV:/Masters/VLSI testing and vrification/Verilog/LogicUnit.v
+L0 6
+R6
+r1
+!s85 0
+31
+R7
+Z60 !s107 V:/Masters/VLSI testing and vrification/Verilog/LogicUnit.v|
+Z61 !s90 -reportprogress|300|-work|work|-stats=none|V:/Masters/VLSI testing and vrification/Verilog/LogicUnit.v|
+!s101 -O0
+!i113 1
+R10
+vmuxA
+R18
+!i10b 1
+!s100 ]Ug]UU77LRIRW3XE`3zo>3
+IGeJz5;k;>[=3JlOY=6^Gb3
+R1
+R2
+w1559687936
+8V:/Masters/VLSI testing and vrification/Verilog/Mux.v
+FV:/Masters/VLSI testing and vrification/Verilog/Mux.v
+L0 5
+R6
+r1
+!s85 0
+31
+R22
+!s107 V:/Masters/VLSI testing and vrification/Verilog/Mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|V:/Masters/VLSI testing and vrification/Verilog/Mux.v|
+!s101 -O0
+!i113 1
+R10
+nmux@a
+vmuxB
+R18
+!i10b 1
+!s100 3E26J:7ki5>9C9ZbmSAH51
+IaO@<j3DKQ_WLh>P_H3l3C1
+R1
+R2
+w1559254421
+8V:/Masters/VLSI testing and vrification/Verilog/MuxB.v
+FV:/Masters/VLSI testing and vrification/Verilog/MuxB.v
+L0 5
+R6
+r1
+!s85 0
+31
+R22
+!s107 V:/Masters/VLSI testing and vrification/Verilog/MuxB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|V:/Masters/VLSI testing and vrification/Verilog/MuxB.v|
+!s101 -O0
+!i113 1
+R10
+nmux@b
+vPC
+R18
+!i10b 1
+!s100 ^blJLEA7;o38j^ZjP@]Kn0
+IAi76NJi9gNK;D98LT9mK:3
+R1
+R2
+Z62 w1559250607
+Z63 8V:/Masters/VLSI testing and vrification/Verilog/PC.v
+Z64 FV:/Masters/VLSI testing and vrification/Verilog/PC.v
+L0 4
+R6
+r1
+!s85 0
+31
+R7
+Z65 !s107 V:/Masters/VLSI testing and vrification/Verilog/PC.v|
+Z66 !s90 -reportprogress|300|-work|work|-stats=none|V:/Masters/VLSI testing and vrification/Verilog/PC.v|
+!s101 -O0
+!i113 1
+R10
+n@p@c
+vregA
+R0
+!i10b 1
+!s100 KPOWR@W7Oc_hVd0F`:81g1
+IboY:>Hb?2OcdZfI3acNVk0
+R1
+R2
+Z67 w1559085566
+Z68 8V:/Masters/VLSI testing and vrification/Verilog/RegA.v
+Z69 FV:/Masters/VLSI testing and vrification/Verilog/RegA.v
+L0 5
+R6
+r1
+!s85 0
+31
+R7
+Z70 !s107 V:/Masters/VLSI testing and vrification/Verilog/RegA.v|
+Z71 !s90 -reportprogress|300|-work|work|-stats=none|V:/Masters/VLSI testing and vrification/Verilog/RegA.v|
+!s101 -O0
+!i113 1
+R10
+nreg@a
+vregB
+R0
+!i10b 1
+!s100 DPm3HfWIgUPE6:iCcKjjI0
+IC9GEI33<Cb[4mfoBY1IBb1
+R1
+R2
+Z72 w1559085928
+Z73 8V:/Masters/VLSI testing and vrification/Verilog/RegB.v
+Z74 FV:/Masters/VLSI testing and vrification/Verilog/RegB.v
+L0 5
+R6
+r1
+!s85 0
+31
+R7
+Z75 !s107 V:/Masters/VLSI testing and vrification/Verilog/RegB.v|
+Z76 !s90 -reportprogress|300|-work|work|-stats=none|V:/Masters/VLSI testing and vrification/Verilog/RegB.v|
+!s101 -O0
+!i113 1
+R10
+nreg@b
+vregC
+R0
+!i10b 1
+!s100 6X6n0fY5^5EiIG0RkNSf?0
+I5[_e8n`@FN7WBEh8=l?VI2
+R1
+R2
+Z77 w1559086240
+Z78 8V:/Masters/VLSI testing and vrification/Verilog/RegC.v
+Z79 FV:/Masters/VLSI testing and vrification/Verilog/RegC.v
+L0 5
+R6
+r1
+!s85 0
+31
+R7
+Z80 !s107 V:/Masters/VLSI testing and vrification/Verilog/RegC.v|
+Z81 !s90 -reportprogress|300|-work|work|-stats=none|V:/Masters/VLSI testing and vrification/Verilog/RegC.v|
+!s101 -O0
+!i113 1
+R10
+nreg@c
+vtb_ALU
+R0
+!i10b 1
+!s100 3mY?WFEC^KOgTOjF;hEhB3
+IMU09^o:j=g:`[eO[X^HT`3
+R1
+R2
+R3
+R4
+R5
+L0 51
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+ntb_@a@l@u
+vtb_arith
+R11
+!i10b 1
+!s100 cnSdHG;HQ<ob9AnFRn`:00
+IAAOMSO87E3WoDHVZY^Qdg1
+R1
+R2
+R12
+R13
+R14
+L0 38
+R6
+r1
+!s85 0
+31
+R15
+R16
+R17
+!s101 -O0
+!i113 1
+R10
+vtb_controller
+R18
+!i10b 1
+!s100 F]D<SK?K>E`_laCc]mfdm3
+IH;`]n@85biH0UDV`VgLfm0
+R1
+R2
+R19
+R20
+R21
+L0 356
+R6
+r1
+!s85 0
+31
+R22
+R23
+R24
+!s101 -O0
+!i113 1
+R10
+vtb_counter4b
+R11
+!i10b 1
+!s100 lTioi^NlEZa0G9T<XTFli1
+IlGFXd9?m]<9N`dFB;5F2Y3
+R1
+R2
+R25
+R26
+R27
+L0 29
+R6
+r1
+!s85 0
+31
+R15
+R28
+R29
+!s101 -O0
+!i113 1
+R10
+vtb_CPU
+R30
+!i10b 1
+!s100 >JdQKQ8H_T9=]R:Sa7HAc1
+I1@^6>4b68L28TScV=IjcT0
+R1
+R2
+R31
+R32
+R33
+L0 47
+R6
+r1
+!s85 0
+31
+R34
+R35
+R36
+!s101 -O0
+!i113 1
+R10
+ntb_@c@p@u
+vtb_datamem
+R0
+!i10b 1
+!s100 QHXfZ5_J0<]micPY_aUG53
+IkNoCS2FDD<Llb0Me6la4@0
+R1
+R2
+R37
+R38
+R39
+Z82 L0 33
+R6
+r1
+!s85 0
+31
+R7
+R40
+R41
+!s101 -O0
+!i113 1
+R10
+vtb_dff
+R11
+!i10b 1
+!s100 O`Pi44R3i:9J]7V9TKNb:3
+I^1G0bX6db:hV8mF?5Rne80
+R1
+R2
+R42
+R43
+R44
+L0 21
+R6
+r1
+!s85 0
+31
+R15
+R45
+R46
+!s101 -O0
+!i113 1
+R10
+vtb_encode
+R11
+!i10b 1
+!s100 `IIfNh=J>I>c>gL[Xh7`71
+IONXTD^XLB1GhaQ7K[ilaa3
+R1
+R2
+R47
+R48
+R49
+L0 45
+R6
+r1
+!s85 0
+31
+R15
+R50
+R51
+!s101 -O0
+!i113 1
+R10
+vtb_instmem
+R0
+!i10b 1
+!s100 Bk9bnNGg]GC^ieYHoi3hV3
+I^WmWEAh6]fP`En;joQ7jl3
+R1
+R2
+R52
+R53
+R54
+R82
+R6
+r1
+!s85 0
+31
+R7
+R55
+R56
+!s101 -O0
+!i113 1
+R10
+vtb_logic
+R0
+!i10b 1
+!s100 R:KlUhOlab?jfbS=FEzXb3
+IFGWJ1IC_m_^g_h>4:71o11
+R1
+R2
+R57
+R58
+R59
+L0 73
+R6
+r1
+!s85 0
+31
+R7
+R60
+R61
+!s101 -O0
+!i113 1
+R10
+vtb_PC
+R18
+!i10b 1
+!s100 S<Vfz<ndfSm[4BChXdY1D2
+IJG^EZ]l<[LaaMkFUBOHc?0
+R1
+R2
+R62
+R63
+R64
+L0 36
+R6
+r1
+!s85 0
+31
+R7
+R65
+R66
+!s101 -O0
+!i113 1
+R10
+ntb_@p@c
+vtb_regA
+R0
+!i10b 1
+!s100 0ealIX@?S_El_MkN@7gGf1
+Ib4n:3fS6j?;bhR7CZcCVm3
+R1
+R2
+R67
+R68
+R69
+R82
+R6
+r1
+!s85 0
+31
+R7
+R70
+R71
+!s101 -O0
+!i113 1
+R10
+ntb_reg@a
+vtb_regB
+R0
+!i10b 1
+!s100 Ah<=FJAF^^9j1Y2L723Xz3
+IMPO^Pb=@nN4X>Ee5I6KXo0
+R1
+R2
+R72
+R73
+R74
+R82
+R6
+r1
+!s85 0
+31
+R7
+R75
+R76
+!s101 -O0
+!i113 1
+R10
+ntb_reg@b
+vtb_regC
+R0
+!i10b 1
+!s100 gIHY18Q^GPOm`fa9>Yg2_0
+IYC7iIRXSQC>khO]^Nc02A2
+R1
+R2
+R77
+R78
+R79
+R82
+R6
+r1
+!s85 0
+31
+R7
+R80
+R81
+!s101 -O0
+!i113 1
+R10
+ntb_reg@c
